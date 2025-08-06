@@ -29,5 +29,5 @@ Discovering forgotten routes and forms
 Feeding data into tools like Burp Suite, ffuf, or nuclei
 
 🤝 Contribute
-We welcome contributions! Whether you're improving output formats, extending protocol support, or enhancing crawling logic—join us in making Hakrawler more powerful and versatile.
+We welcome contributions! Whether you're improving output formats, extending protocol support, or enhancing crawling logic join us in making Hakrawler more powerful and versatile.
 
